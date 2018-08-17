@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#00AEEF;stroke-miterlimit:10;stroke-dasharray:11.5967,11.5967;}
+	.st2{fill:#00AEEF;}
+</style>
+<g id="XMLID_1_">
+
+	<circle id="XMLID_9_" class="st1" cx="50" cy="50" r="48">
+	<animateTransform attributeName = "transform"
+		attributeType = "XML"
+		type ="rotate"
+		from= "0 50 50"
+		to ="360 50 50"
+		dur = "10s"
+		repeatCount= "indefinite"/>
+	</circle>
+</g>
+<circle id="XMLID_2_" class="st2" cx="50" cy="50" r="39"/>
+<path id="XMLID_4_" class="st0" d="M25.6,66h-1.1c-1.4,0-2.5-1.1-2.5-2.5v-25c0-1.4,1.1-2.5,2.5-2.5h1.1c1.4,0,2.5,1.1,2.5,2.5v25
+	C28.1,64.9,27,66,25.6,66z">
+	<animateTransform id="Loader" 
+		attributeName = "transform"
+		attributeType = "XML"
+		type ="translate"
+		dur = "1s"
+		values ="0,6;0,-6;0,6"
+		repeatCount= "indefinite"/>
+	</path>
+<path id="XMLID_5_" class="st0" d="M36.6,66h-1.1c-1.4,0-2.5-1.1-2.5-2.5v-25c0-1.4,1.1-2.5,2.5-2.5h1.1c1.4,0,2.5,1.1,2.5,2.5v25
+	C39.1,64.9,37.9,66,36.6,66z">
+	<animateTransform id="Loader"  
+		attributeName = "transform"
+		attributeType = "XML"
+		type ="translate"
+		begin="0.1"
+		dur = "1s"
+		values ="0,6;0,-6;0,6"
+		repeatCount= "indefinite"/>
+	</path>
+<path id="XMLID_6_" class="st0" d="M47.5,66h-1.1c-1.4,0-2.5-1.1-2.5-2.5v-25c0-1.4,1.1-2.5,2.5-2.5h1.1c1.4,0,2.5,1.1,2.5,2.5v25
+	C50,64.9,48.9,66,47.5,66z">
+	<animateTransform id="Loader"  
+		attributeName = "transform"
+		attributeType = "XML"
+		type ="translate"
+		begin="0.2"
+		dur = "1s"
+		values ="0,6;0,-6;0,6"
+		repeatCount= "indefinite"/>
+	</path>
+<path id="XMLID_7_" class="st0" d="M58.5,66h-1.1c-1.4,0-2.5-1.1-2.5-2.5v-25c0-1.4,1.1-2.5,2.5-2.5h1.1c1.4,0,2.5,1.1,2.5,2.5v25
+	C61,64.9,59.9,66,58.5,66z">
+	<animateTransform id="Loader"  
+		attributeName = "transform"
+		attributeType = "XML"
+		type ="translate"
+		begin="0.3"
+		dur = "1s"
+		values ="0,6;0,-6;0,6"
+		repeatCount= "indefinite"/>
+	</path>
+<path id="XMLID_11_" class="st0" d="M69.5,66h-1.1c-1.4,0-2.5-1.1-2.5-2.5v-25c0-1.4,1.1-2.5,2.5-2.5h1.1c1.4,0,2.5,1.1,2.5,2.5v25
+	C72,64.9,70.9,66,69.5,66z">
+	<animateTransform id="Loader"  
+		attributeName = "transform"
+		attributeType = "XML"
+		type ="translate"
+		begin="0.4"
+		dur = "1s"
+		values ="0,6;0,-6;0,6"
+		repeatCount= "indefinite"/>
+	</path>
+</svg>

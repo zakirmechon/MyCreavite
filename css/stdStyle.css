@@ -1,0 +1,168 @@
+.color1{
+    background-color: rgb(255, 255, 255);
+}
+.color2{
+    background-color:#00ffccc9;
+}
+.color3{
+    background-color: #444f72;
+}
+.color4{
+    background-color: #e66565;
+}
+
+.font1 {
+    font-family: 'Berkshire Swash', cursive;
+}
+.font2 {
+    font-family: 'Acme', sans-serif;
+}
+.font3 {
+    font-family: 'Signika', sans-serif;
+}
+
+.Tag {
+    color: white !important;
+    margin-left: 5px;
+    word-break: keep-all;
+    border-radius: 2px;
+    background-color: #444f72;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 40px;
+    margin: 0px;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+h2 {
+    font-family: 'Signika', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    margin: 0px;
+}
+
+p {
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+    margin: 0px;
+}
+
+
+.boxshadow {
+    /* box-shadow: 0 01px black, 01px 0 black, 01px 02px black, 02px 01px black, 02px 03px black, 03px 02px black, 03px 04px black, 04px 03px black, 04px 05px black, 05px 04px black, 05px 06px black, 06px 05px black, 07px 06px black, 08px 09px black, 10px 09px black, 11px 10px black, 12px 11px black, 13px 12px black;
+     */
+     -webkit-box-shadow: 0px 0px 1px 5px rgba(0,0,0,0.22);
+     -moz-box-shadow: 0px 0px 1px 5px rgba(0,0,0,0.22);
+     box-shadow: 0px 0px 1px 5px rgba(0,0,0,0.22);
+}
+
+.textshadow {
+    text-shadow: .02rem .05rem #272525;
+}
+
+
+.btn {
+    cursor: pointer;
+    margin: 10px;
+    background-color: #0396A6;
+    color: white !important;
+    border-radius: 50px;
+    padding: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 18px;
+}
+
+.btn:hover {
+    -webkit-box-shadow: inset 0px 0px 4px 200px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: inset 0px 0px 4px 200px rgba(0, 0, 0, 0.25);
+    box-shadow: inset 0px 0px 4px 200px rgba(0, 0, 0, 0.25);
+}
+
+.btn i{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.darkblue{
+    background-color: #0C273D;
+}
+.lightblue{
+    background-color: #E3FDFC;
+}
+.blue{
+    background-color: #0396A6;
+}
+.green{
+    background-color: #19B274;
+    background-color: #01A58D;
+}
+.red{
+    /* background-color: #EE3F76; */
+    background-color: #444f72;
+}
+
+.wisteria {
+    color: #8e44ad;
+}
+
+.belize {
+    color: #2980b9;
+}
+
+.pomegranate {
+    color: #c0392b;
+}
+
+.greens {
+    color: #16a085;
+}
+
+.midnight {
+    color: #ff5429;
+}
+
+.lightgray{
+    background-color: #BAFFE5;
+}
+.gray{
+    background-color: #595959;
+}
+.white{
+    background-color: #F2F2F2;
+}
+.black{
+    background-color: #262626;
+}
+
+
+.svgLoad{
+    height: 100px;
+    width: 100px;
+}
+.polygon{
+    fill: rgb(182, 182, 247);
+
+}
